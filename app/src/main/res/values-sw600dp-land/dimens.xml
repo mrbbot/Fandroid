@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="toolbar_total_placeholder_height">68dp</dimen>
+    <dimen name="toolbar_placeholder_height">64dp</dimen>
+</resources>
